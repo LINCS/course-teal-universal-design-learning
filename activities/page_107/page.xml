@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="11" moduleid="107" modulename="page" contextid="222">
+  <page id="11">
+    <name>Familiarize yourself with UDL (Presentation)</name>
+    <intro>&lt;p&gt;Watch this short video to familiarize yourself with the concept of universal design for learning. Select the video, Principles and Practice, in the series from The National Center for UDL.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;div style="text-align: left;"&gt;
+&lt;p&gt;Watch this short video, &lt;a title="opens in new site, UDL center" href="http://www.udlcenter.org/resource_library/videos/udlcenter/guidelines#video0" target="_blank"&gt;&lt;abbr title="Universal Design for Learning"&gt;&lt;strong&gt;UDL&lt;/strong&gt;&lt;/abbr&gt;&lt;strong&gt;: Principles and Practice&lt;/strong&gt;&lt;/a&gt;, to familiarize yourself with the concept of universal design for learning. This video is hosted by National UDL Center  and is on a different site. After viewing and/or listening to the video, please return to the course.&lt;/p&gt;
+&lt;h3&gt;About this Video&lt;/h3&gt;
+&lt;p&gt;National Center on &lt;abbr title="Universal Design for Learning"&gt;UDL&lt;/abbr&gt; Director David Rose explains how &lt;abbr title="Universal Design for Learning"&gt;UDL&lt;/abbr&gt; helps meet the most pressing issues facing educators today. Drawing on brain research and the latest learning sciences, Dr. Rose describes the three &lt;abbr title="Universal Design for Learning"&gt;UDL&lt;/abbr&gt; principles and what they mean for classroom practice.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p style="font-size: .7em;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>8</revision>
+    <timemodified>1518190920</timemodified>
+  </page>
+</activity>

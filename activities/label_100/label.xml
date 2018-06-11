@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="23" moduleid="100" modulename="label" contextid="215">
+  <label id="23">
+    <name> 
+Course Objectives
+ 
+By the end of this course...</name>
+    <intro>&lt;h4&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;/span&gt;&lt;/strong&gt; &lt;/h4&gt;
+&lt;h4&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Course Objectives&lt;/span&gt;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;/span&gt;&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;By the end of this course, participants will be able to&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Define universal design for learning;&lt;/li&gt;
+&lt;li&gt;Identify &lt;abbr title="Universal Design for Learning"&gt;UDL&lt;/abbr&gt; principles;&lt;/li&gt;
+&lt;li&gt;Plan for incorporating &lt;abbr title="Universal Design for Learning"&gt;UDL&lt;/abbr&gt; principles into their adult education classes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Course Expectations&lt;/h3&gt;
+&lt;p&gt;Participants are expected to read and post at least once in each forum (not each discussion thread) and journal; watch recorded presentations; read the &lt;span class="nolink"&gt;background readings&lt;/span&gt; and resource pages of the course; and complete assignments and the final evaluation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; There are lots of additional links and resources posted. Explore these to inform your practice as you have time.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1518193826</timemodified>
+  </label>
+</activity>

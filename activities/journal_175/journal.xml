@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1" moduleid="175" modulename="journal" contextid="311">
+  <journal id="1">
+    <name>Rate your knowledge: What do you know about UDL?</name>
+    <intro>&lt;p&gt;Tell us what you know about &lt;abbr title="Universal Design for Learning"&gt;UDL&lt;/abbr&gt;. Add a journal entry (about 3 sentences) of your understanding of &lt;abbr title="Universal Design for Learning"&gt;UDL&lt;/abbr&gt; and tell us if you consider yourself a...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;abbr title="Universal Design for Learning"&gt;UDL&lt;/abbr&gt; expert&lt;/strong&gt; You apply the principles in your teaching every day;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;abbr title="Universal Design for Learning"&gt;UDL&lt;/abbr&gt; novice&lt;/strong&gt; You consider the principles and are learning more about the framework;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;abbr title="Universal Design for Learning"&gt;UDL&lt;/abbr&gt; newbie&lt;/strong&gt; The term &lt;abbr title="Universal Design for Learning"&gt;UDL&lt;/abbr&gt; and its guidelines are still new to you.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a title="Go back to the topic" href="https://ovae-moodle-dev.myquotient.net/course/view.php?id=17"&gt;Back&lt;/a&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <days>0</days>
+    <grade>-4</grade>
+    <timemodified>1518192736</timemodified>
+    <entries>
+    </entries>
+  </journal>
+</activity>

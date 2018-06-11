@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="13" moduleid="109" modulename="page" contextid="224">
+  <page id="13">
+    <name>The Framework of UDL (Presentation)</name>
+    <intro>&lt;div style="text-align: left;"&gt;Learn about UDL from Tracey Hall and Boo Murray from &lt;a href="http://www.cast.org/"&gt;CAST.&lt;/a&gt;&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;div style="text-align: left;"&gt;Watch the narrated slide presentation below:&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;embed height="315" type="application/x-shockwave-flash" width="420" src="https://www.youtube.com/v/5D_bxgAQtzw?hl=en_US&amp;amp;version=3" allowfullscreen="true" allowscriptaccess="always" /&gt;&lt;/p&gt;
+&lt;div style="text-align: left;"&gt;&lt;span color="#0000ff"&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div style="text-align: left;"&gt;&lt;span color="#0000ff"&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div style="text-align: left;"&gt;&lt;span color="#0000ff"&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div style="text-align: left;"&gt;&lt;span color="#0000ff"&gt;&lt;/span&gt;Learn about UDL from Tracey Hall and Boo Murray, both Senior Research Scientists and Instructional Designers at &lt;a title="CAST Website - opens in a new window" href="http://www.cast.org/" target="_blank"&gt;&lt;span style="color: #0000ff;"&gt;CAST&lt;/span&gt;&lt;/a&gt;, the Center for Applied Special Technology. They provide an overview of the history, framework, and principles that can make your instruction accessible to all learners in this &lt;span style="color: #0000ff;"&gt;&lt;span style="color: #000000;" color="#000000"&gt;narrated slide presentation. &lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div style="text-align: left;"&gt;&lt;span style="color: #0000ff;"&gt;&lt;span style="color: #000000;" color="#000000"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>11</revision>
+    <timemodified>1394818149</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course_completion>
+  <course_completion_criteria id="2">
+    <course>17</course>
+    <criteriatype>7</criteriatype>
+    <module>$@NULL@$</module>
+    <moduleinstance>$@NULL@$</moduleinstance>
+    <courseinstanceshortname>$@NULL@$</courseinstanceshortname>
+    <enrolperiod>$@NULL@$</enrolperiod>
+    <timeend>$@NULL@$</timeend>
+    <gradepass>$@NULL@$</gradepass>
+    <role>3</role>
+    <course_completion_crit_completions>
+    </course_completion_crit_completions>
+  </course_completion_criteria>
+  <course_completion_criteria id="3">
+    <course>17</course>
+    <criteriatype>7</criteriatype>
+    <module>$@NULL@$</module>
+    <moduleinstance>$@NULL@$</moduleinstance>
+    <courseinstanceshortname>$@NULL@$</courseinstanceshortname>
+    <enrolperiod>$@NULL@$</enrolperiod>
+    <timeend>$@NULL@$</timeend>
+    <gradepass>$@NULL@$</gradepass>
+    <role>4</role>
+    <course_completion_crit_completions>
+    </course_completion_crit_completions>
+  </course_completion_criteria>
+  <course_completion_aggr_methd id="13">
+    <course>17</course>
+    <criteriatype>$@NULL@$</criteriatype>
+    <method>1</method>
+    <value>$@NULL@$</value>
+  </course_completion_aggr_methd>
+  <course_completion_aggr_methd id="14">
+    <course>17</course>
+    <criteriatype>4</criteriatype>
+    <method>1</method>
+    <value>$@NULL@$</value>
+  </course_completion_aggr_methd>
+  <course_completion_aggr_methd id="16">
+    <course>17</course>
+    <criteriatype>7</criteriatype>
+    <method>2</method>
+    <value>$@NULL@$</value>
+  </course_completion_aggr_methd>
+  <course_completion_aggr_methd id="15">
+    <course>17</course>
+    <criteriatype>8</criteriatype>
+    <method>1</method>
+    <value>$@NULL@$</value>
+  </course_completion_aggr_methd>
+</course_completion>

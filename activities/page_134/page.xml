@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="19" moduleid="134" modulename="page" contextid="249">
+  <page id="19">
+    <name>Recording of Course Recap Resource (Presentation)</name>
+    <intro>&lt;p&gt;Recap of the Universal Design for Learning course.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;div style="text-align: center;"&gt;&lt;br /&gt;Please view the recap of the Universal Design for Learning course below.&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style="text-align: center;"&gt;&lt;/div&gt;
+&lt;p style="text-align: center;"&gt;&lt;embed height="480" type="application/x-shockwave-flash" width="640" src="https://www.youtube.com/v/UgcLcONJ9TU?hl=en_US&amp;amp;version=3&amp;amp;rel=0" allowfullscreen="true" allowscriptaccess="always" /&gt;&lt;/p&gt;
+&lt;div style="text-align: center;"&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div id="media"&gt;
+&lt;div style="text-align: center;"&gt;
+&lt;p&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;" size="3"&gt; &lt;object id="csSWF" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,115,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="494"&gt; [&lt;a style="color: #0000ff;" target="_blank" href="@@PLUGINFILE@@/TEAL_session_wrap-up_of_UDL-5_Compatibility_Mode_.pdf" title="Transcrit PDF - Opens in New Window"&gt;Transcript of presentation&lt;/a&gt;] &lt;/object&gt;&lt;br /&gt; &lt;object id="csSWF" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,115,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="494"&gt;   &lt;/object&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;object id="csSWF" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,115,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="494"&gt; &lt;span size="1" style="font-size: xx-small;"&gt;&lt;br /&gt;&lt;/span&gt; &lt;/object&gt;
+&lt;div style="text-align: center;"&gt;
+&lt;div style="text-align: left;"&gt;&lt;object id="csSWF" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,115,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="494"&gt; &lt;span size="1" style="font-size: xx-small;"&gt;[The video content presented here requires JavaScript to be enabled and the latest version of the Adobe Flash Player. If you do not have the latest version, please update Adobe Flash Player by downloading it here: &lt;a style="color: #0000ff;" target="_top" href="http://www.adobe.com/go/getflashplayer"&gt;http://www.adobe.com/go/getflashplayer&lt;/a&gt;]&lt;/span&gt; &lt;/object&gt;&lt;/div&gt;
+&lt;object id="csSWF" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,115,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="494"&gt;   &lt;/object&gt;&lt;/div&gt;
+&lt;object id="csSWF" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,115,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="494"&gt; &lt;br /&gt;&lt;br /&gt; &lt;/object&gt;&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1394819061</timemodified>
+  </page>
+</activity>

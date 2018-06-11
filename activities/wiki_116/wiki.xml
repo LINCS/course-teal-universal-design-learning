@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="3" moduleid="116" modulename="wiki" contextid="231">
+  <wiki id="3">
+    <name>Writing Goes to Camp! Contribute to a wiki of teaching ideas</name>
+    <intro>&lt;p&gt;&lt;img title="Writers' circle" border="0" hspace="0" alt="Writers' circle" src="@@PLUGINFILE@@/writers_circle.jpg" width="243" height="182" complete="true" /&gt;&lt;br /&gt;Remember the "camps" of writers discussed in the webcast?&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;"&gt;&lt;/span&gt;Now that you have brainstormed about the multiple means of representation, expression, and engagement, let's collect some ideas about how to help struggling adult writers. Add your ideas to the wiki pages that follow (add at least one entry on one of these three pages). &lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instructions:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;&lt;/strong&gt;Click on the Map tab&lt;/li&gt;
+&lt;li&gt;Then, click the name of the Camp to jump to that page of the wiki.&lt;/li&gt;
+&lt;li&gt;When you're on the Camp page you want to add to, click on the Edit tab at the top of the page to add your ideas.&lt;/li&gt;
+&lt;li&gt;Be sure to put your name in parentheses at the end of your addition.&lt;/li&gt;
+&lt;/ol&gt;</intro>
+    <introformat>1</introformat>
+    <timecreated>1367875273</timecreated>
+    <timemodified>1395428195</timemodified>
+    <firstpagetitle>First Page</firstpagetitle>
+    <wikimode>collaborative</wikimode>
+    <defaultformat>html</defaultformat>
+    <forceformat>1</forceformat>
+    <editbegin>0</editbegin>
+    <editend>0</editend>
+    <subwikis>
+    </subwikis>
+  </wiki>
+</activity>

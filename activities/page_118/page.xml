@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="16" moduleid="118" modulename="page" contextid="233">
+  <page id="16">
+    <name>How to apply UDL to math instruction (Presentation)</name>
+    <intro>&lt;p&gt;&lt;span style="color: #000000; font-family: verdana,tahoma,arial,serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 16px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: #ffffff; display: inline ! important; float: none;"&gt;How does UDL apply to math instruction? Find out in this resource.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;div style="text-align: left;"&gt;Have a copy of the &lt;a style="color: #0000ff;" title="UDL Guidelines in PDF - Opens in New Window" href="@@PLUGINFILE@@/updateguidelines2_0.pdf" target="_blank"&gt;UDL Guidelines&lt;/a&gt; printed for your reference. Think about how UDL applies to math instruction for adult learners while you watch this narrated slide presentation.&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;embed height="480" type="application/x-shockwave-flash" width="640" src="https://www.youtube.com/v/GFRubVy9Sxk?version=3&amp;amp;hl=en_US&amp;amp;rel=0" allowfullscreen="true" allowscriptaccess="always" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div style="text-align: center;"&gt;[&lt;a style="color: #0000ff;" title="UDL Math Presentation Transcript - Opens in new window" href="@@PLUGINFILE@@/Math_UDL.pdf" target="_blank"&gt;Transcript of presentation&lt;/a&gt;]&lt;/div&gt;
+&lt;div style="text-align: center;"&gt;&lt;/div&gt;
+&lt;p style="margin-bottom: 0.0001pt; line-height: normal; text-align: left;" class="MsoNormal"&gt;&lt;span style="font-size: 7.5pt;"&gt;[The video content presented here requires JavaScript to be enabled and the latest version of the Adobe Flash Player. If you do not have the latest version, please update Adobe Flash Player by downloading it here: &lt;a href="https://get.adobe.com/flashplayer/" title="Adobe Flash Player" target="_blank"&gt;https://get.adobe.com/flashplayer/&lt;/a&gt;]&lt;/span&gt;&lt;span style="font-size: 12pt;"&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>8</revision>
+    <timemodified>1518192070</timemodified>
+  </page>
+</activity>

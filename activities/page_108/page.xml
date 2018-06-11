@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="12" moduleid="108" modulename="page" contextid="223">
+  <page id="12">
+    <name>Background Readings</name>
+    <intro>&lt;p&gt;Read these articles when you start this course. These articles will provide background knowledge and a common vocabulary about UDL.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;div style="text-align: left;"&gt;
+&lt;p&gt;These articles will provide background knowledge and a common vocabulary about &lt;abbr title="Universal Design for Learning"&gt;UDL&lt;/abbr&gt;. Please read the following three articles: &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a title="PDF Document Opens in New Window" href="@@PLUGINFILE@@/GPSarticle.pdf" target="_blank"&gt;Getting from Here to There: &lt;abbr title="Universal Design for Learning"&gt;UDL&lt;/abbr&gt;, Global Positioning Systems, and Lessons for Improving Education [PDF]&lt;/a&gt; &lt;/strong&gt;&lt;br /&gt;&lt;span style="text-align: left;"&gt;The first reading is from the &lt;abbr title="Universal Design for Learning"&gt;UDL&lt;/abbr&gt; experts at CAST. It puts &lt;abbr title="Universal Design for Learning"&gt;UDL&lt;/abbr&gt; into an everyday analogy, a GPS system in a car.&lt;br /&gt;&lt;br /&gt;&lt;span style="margin-left: 20px; display: block;"&gt;&lt;strong&gt;Summary&lt;/strong&gt; Sadly for education, the commonly available GPS exemplifies the principles and guidelines of Universal Design for Learning better than most educational curricula. This article draws playful and important parallels as it explores the features of the GPS through the lens of the UDL guidelines. &lt;strong&gt;Published in: &lt;/strong&gt;Gordon, D.T., Gravel, J.W., &amp;amp; Schifter, L.A. (2009). &lt;em&gt;A policy reader in universal design for learning &lt;/em&gt;(pp.5-18) Cambridge, MA: Harvard Education Press.&lt;br /&gt;(Optional: You may also &lt;a title="links to new site and window which is not a part of this course" href="http://udlguidelines.cast.org/" target="_blank"&gt;read supporting documents&lt;/a&gt;.)&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a title="PDF Document Opens in New Window" href="@@PLUGINFILE@@/updateguidelines2_0.pdf" target="_blank"&gt;&lt;abbr title="Universal Design for Learning"&gt;UDL&lt;/abbr&gt; Guidelines [PDF]&lt;/a&gt; &lt;br /&gt;&lt;/strong&gt;Download and save and/or print these &lt;abbr title="Universal Design for Learning"&gt;UDL&lt;/abbr&gt; Guidelines. We will be referring to them often during the course. &lt;br /&gt;(Optional: You may also &lt;a title="links to new site and window which is not a part of this course" href="http://udlguidelines.cast.org/" target="_blank"&gt;read supporting documents&lt;/a&gt;.)&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong style="line-height: 1.231;"&gt;&lt;a title="PDF Document Opens in New Window" href="@@PLUGINFILE@@/2%20%20TEAL%20Center%20Universal%20Design%20for%20Learning%20Fact%20Sheet%20AIR%20logo%2012-12-13_dms.pdf" target="_blank"&gt;TEAL Center Fact Sheet on UDL [PDF]&lt;/a&gt; &lt;/strong&gt;&lt;span style="line-height: 1.231;"&gt;The third reading is a TEAL Center Fact Sheet on UDL. It makes explicit how UDL applies to the adult education context. Bookmark this Fact Sheet for future reference and share with colleagues. You also may download this fact sheet from the &lt;a href="http://lincs.ed.gov/programs/teal" title="TEAL" target="_blank"&gt;TEAL Web site&lt;/a&gt;.&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;hr /&gt;
+&lt;p style="font-size: .7em;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>30</revision>
+    <timemodified>1518194607</timemodified>
+  </page>
+</activity>

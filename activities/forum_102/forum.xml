@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="25" moduleid="102" modulename="forum" contextid="217">
+  <forum id="25">
+    <type>general</type>
+    <name>What do you want to know? Add to this Forum!</name>
+    <intro>&lt;div style="text-align: left"&gt;What do you want to learn about UDL? &lt;br /&gt;&lt;br /&gt;Post a comment and respond to others' comments. &lt;/div&gt;</intro>
+    <introformat>0</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>3</scale>
+    <maxbytes>0</maxbytes>
+    <maxattachments>1</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1323369770</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+  </forum>
+</activity>

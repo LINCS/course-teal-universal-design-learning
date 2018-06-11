@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="14" moduleid="114" modulename="page" contextid="229">
+  <page id="14">
+    <name>How to apply UDL to writing instruction (Presentation)</name>
+    <intro>&lt;p&gt;How does UDL apply to writing instruction? Find out in this resource.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: center;"&gt;Have a copy of the&lt;a title="PDF - opens in new window -UDL Guidelines" href="@@PLUGINFILE@@/updateguidelines2_0.pdf" target="_blank"&gt;&lt;span style="color: #0000ff;"&gt; &lt;/span&gt;&lt;span style="color: #0000ff;"&gt;UDL Guidelines&lt;/span&gt;&lt;/a&gt; printed for your reference. Think about how UDL applies to writing instruction for adult learners while you watch this &lt;span style="color: #0000ff;"&gt;&lt;span style="color: #000000;"&gt;narrated slide presentation.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div style="text-align: center;"&gt;&lt;/div&gt;
+&lt;div style="text-align: center;"&gt;&lt;/div&gt;
+&lt;div style="text-align: center;"&gt;&lt;/div&gt;
+&lt;p style="text-align: center;"&gt;&lt;embed height="480" type="application/x-shockwave-flash" width="640" src="https://www.youtube.com/v/whl7Vqp9N2Q?version=3&amp;amp;hl=en_US&amp;amp;rel=0" allowfullscreen="true" allowscriptaccess="always" /&gt;&lt;/p&gt;
+&lt;div style="text-align: center;" id="media"&gt;&lt;/div&gt;
+&lt;div style="text-align: center;"&gt;&lt;/div&gt;
+&lt;div style="text-align: center;"&gt;&lt;/div&gt;
+&lt;div style="text-align: center;"&gt;[&lt;a style="color: #0000ff;" title="UDL Template" href="@@PLUGINFILE@@/UDL_for_Writing_on_template.pdf" target="_top"&gt;Transcript of presentation&lt;/a&gt;]&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style="text-align: left;"&gt;&lt;span style="font-size: xx-small;" size="1"&gt;[The video content presented here requires JavaScript to be enabled and the latest version of the Adobe Flash Player. If you do not have the latest version, please update Adobe Flash Player by downloading it here: &lt;a style="color: #0000ff;" title="Adobe Update" href="http://www.adobe.com/go/getflashplayer" target="_top"&gt;http://www.adobe.com/go/getflashplayer&lt;/a&gt;]&lt;/span&gt;&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>8</revision>
+    <timemodified>1394818218</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="24" moduleid="103" modulename="label" contextid="218">
+  <label id="24">
+    <name>Post a journal entry about your familiarity with U...</name>
+    <intro>&lt;p&gt;Post a journal entry about your familiarity with &lt;abbr title="Universal Design for Learning"&gt;UDL&lt;/abbr&gt;.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1375068966</timemodified>
+  </label>
+</activity>

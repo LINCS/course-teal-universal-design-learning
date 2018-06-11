@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="17" moduleid="119" modulename="page" contextid="234">
+  <page id="17">
+    <name>Why do math differently? Find Out!</name>
+    <intro>&lt;p&gt;Students often are confused about the structure of numbers, don’t understand operations and notations, and see only limited relationships between numbers. Learn activities to do with your students that decompose numbers. These activities will help students in the areas mentioned.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;div style="text-align: left;"&gt;
+&lt;p&gt;Students often are confused about the structure of numbers, don't understand operations and notations, and see only limited relationships between numbers.&lt;/p&gt;
+&lt;p&gt;Activities to decompose numbers (to break into values or component parts; to break into prime factors):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deepen the understanding of the structure of numbers.&lt;/li&gt;
+&lt;li&gt;Help students identify patterns.&lt;/li&gt;
+&lt;li&gt;Improve familiarity with and understanding of symbols and notation.&lt;/li&gt;
+&lt;li&gt;Can increase student confidence because they understand and see relationships.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span style="font-style: italic;"&gt;Number of the Day&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="font-style: italic;"&gt;Number of the Day&lt;/span&gt; is a good way to provide practice in seeing connections and patterns, and to increase communication about math.&lt;/p&gt;
+&lt;h3&gt;&lt;span style="font-style: italic;"&gt;Number of the Day&lt;/span&gt; is:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A fun strategy to increase flexibility with numbers, relationships, operations, symbols, and notation.&lt;/li&gt;
+&lt;li&gt;Non-threatening, non-graded.&lt;/li&gt;
+&lt;li&gt;An activity that can be done with all levels.&lt;/li&gt;
+&lt;li&gt;Informal and quick.&lt;/li&gt;
+&lt;li&gt;An opportunity to increase communication by discussing, explaining, and justifying answers.&lt;/li&gt;
+&lt;li&gt;A way to move beyond rote problem solving and develop deeper understanding of numbers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;How does Number of the Day work?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Post a Number of the Day on the board or on chart paper on a wall—it can be any number or expression that is appropriate for the level of your students.&lt;/li&gt;
+&lt;li&gt;Ask students to write as many expressions as they can on a piece of paper whose answers equal the number. Ask them to use as many operations and symbols as they can. &lt;br /&gt;For example: If you post the number '9,' you may see the following answers:
+&lt;ul&gt;
+&lt;li&gt;For beginning levels 1-2: 3x3; 36/4; 10% of 90&lt;/li&gt;
+&lt;li&gt;For intermediate levels 3-4: 32; Square root of 81&lt;/li&gt;
+&lt;li&gt;For advanced levels 5-6: 3*(23 – 24)+Square root of 9 *103/102+ 36/35&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Ask the students to transfer their answers to individual sticky notes and post each one on the board or chart paper.&lt;/li&gt;
+&lt;li&gt;Then begin a discussion by posing questions:
+&lt;ul&gt;
+&lt;li&gt;What different operations did people use?&lt;/li&gt;
+&lt;li&gt;What different symbols and notation did people use?&lt;/li&gt;
+&lt;li&gt;Do you agree with each of these answers?&lt;/li&gt;
+&lt;li&gt;Would you explain how you came up with your answers?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;span style="font-style: italic;"&gt;Use Number of the Day&lt;/span&gt; as a:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Warm-up activity to open each class.&lt;/li&gt;
+&lt;li&gt;Method to increase comfort before beginning more challenging work.&lt;/li&gt;
+&lt;li&gt;Strategy to increase communication among students and allow students to be teachers.&lt;/li&gt;
+&lt;li&gt;Formative assessment tool.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Benefits of&lt;span style="font-style: italic;"&gt; Number of the Day&lt;/span&gt;:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Students build fluency with numbers and operations.&lt;/li&gt;
+&lt;li&gt;There are many 'right' answers.&lt;/li&gt;
+&lt;li&gt;More students can feel successful and therefore confidence rises.&lt;/li&gt;
+&lt;li&gt;It can be adapted for any level.&lt;/li&gt;
+&lt;li&gt;Students can show their knowledge and help one another.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Source: (Schmitt &amp;amp; Curry, 2011, ANI PD sec. 1.4) Schmitt, M. J., &amp;amp; Curry, D. (2011). &lt;span style="font-style: italic;"&gt;Adult numeracy instruction project: &lt;/span&gt;&lt;span style="font-style: italic;"&gt;Facilitator's manual.&lt;/span&gt; ANI Professional Development. Unpublished manual. Washington, DC: U.S. Department of Education, Office of Vocational and Adult Education.&lt;/p&gt;
+&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1394818369</timemodified>
+  </page>
+</activity>

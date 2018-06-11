@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="5" moduleid="140" modulename="assign" contextid="268">
+  <assign id="5">
+    <name>Assignment #3: Discuss math in your program and reflect</name>
+    <intro>&lt;div&gt;&lt;strong&gt;Discuss math in your program and reflect&lt;/strong&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;See below the five strands of mathematics proficiency students need to develop according to the National Research Council in Adding It Up: Helping Children Learn Mathematics (2001). How is math being taught in your adult education program? How do teachers help students develop:&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;Conceptual understanding&lt;/li&gt;
+&lt;li&gt;Procedural fluency&lt;/li&gt;
+&lt;li&gt;A productive disposition&lt;/li&gt;
+&lt;li&gt;Strategic competence&lt;/li&gt;
+&lt;li&gt;Adaptive reasoning&lt;/li&gt;
+&lt;/ul&gt;
+Conduct a mini-survey of your colleagues to find out what they are doing in their classes. How much time do most of your colleagues spend on procedures vs. conceptual understanding? Ask them how much time is spent discussing the value of using different strategies for different situations. How do they help students see the relevance of math to their daily lives?&lt;br /&gt;&lt;br /&gt;Share your findings with your colleagues and discuss. &lt;br /&gt;Write a two- to three-paragraph reflection of what you learned (click Add or Edit my submission).&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;Five Strands of Math Proficiency&lt;/h3&gt;
+&lt;div&gt;&lt;ol&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;&lt;strong&gt;Conceptual Understanding:&lt;/strong&gt; comprehension of mathematical concepts, operations, and relations&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;&lt;/span&gt;&lt;span style="line-height: 1.231;"&gt;&lt;strong&gt;Procedural Fluency:&lt;/strong&gt; skill in carrying out procedures flexibly, accurately, efficiently, and appropriately&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;&lt;/span&gt;&lt;span style="line-height: 1.231;"&gt;&lt;strong&gt;Strategic Competence:&lt;/strong&gt; ability to formulate, represent, and solve mathematical problems&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;&lt;/span&gt;&lt;span style="line-height: 1.231;"&gt;&lt;strong&gt;Adaptive Reasoning:&lt;/strong&gt; capacity for logical thought, reflection, explanation, and justification&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;&lt;/span&gt;&lt;span style="line-height: 1.231;"&gt;&lt;strong&gt;Productive Disposition:&lt;/strong&gt; habitual inclination to see mathematics as sensible, useful, worthwhile, coupled with a belief in diligence and one’s own efficacy&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>1</sendnotifications>
+    <sendlatenotifications>1</sendlatenotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1527025143</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="29">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="30">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="31">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="32">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="33">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="34">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="35">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="2014">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="2015">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+    </plugin_configs>
+  </assign>
+</activity>

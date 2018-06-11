@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="17" contextid="214">
+  <shortname>UDL</shortname>
+  <fullname>Universal Design for Learning: Addressing Barriers</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p&gt;Universal Design for Learning (UDL) is an approach to curriculum design that can help teachers customize curriculum to serve all learners, regardless of ability, age, gender, or cultural and linguistic background. UDL provides a blueprint for designing strategies, materials, assessments, and tools to reach students with diverse needs and help them learn.&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topics</format>
+  <showgrades>0</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1322802000</startdate>
+  <marker>0</marker>
+  <maxbytes>20971520</maxbytes>
+  <legacyfiles>2</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang></lang>
+  <theme></theme>
+  <timecreated>1322772524</timecreated>
+  <timemodified>1412023697</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>8</numsections>
+  <hiddensections>0</hiddensections>
+  <coursedisplay>0</coursedisplay>
+  <category id="18">
+    <name>508 Testing</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+</course>

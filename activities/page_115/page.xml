@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="15" moduleid="115" modulename="page" contextid="230">
+  <page id="15">
+    <name>Why write more? Find out!</name>
+    <intro>&lt;p&gt;Research shows that teachers need to increase the amount of student writing practice. Find out why, and learn about about Quick Writes, a writing activity that can add to our instruction to help students get more writing practice and increase their confidence as writers.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;div style="text-align: left;"&gt;Research shows that teachers need to increase the amount of student writing practice. Find out why, and learn about about Quick Writes, a writing activity that can add to our instruction to help students get more writing practice and increase their confidence as writers.
+&lt;h3&gt;Research shows that teachers need to increase the amount of student writing practice. Why?&lt;/h3&gt;
+&lt;h3&gt;Writing practice&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Improves writing;&lt;/li&gt;
+&lt;li&gt;Improves reading;&lt;/li&gt;
+&lt;li&gt;Can deepen thinking about content;&lt;/li&gt;
+&lt;li&gt;Can increase writing fluency;&lt;/li&gt;
+&lt;li&gt;Can makes students more comfortable and confident about writing;&lt;/li&gt;
+&lt;li&gt;Can promote transfer between contexts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Quick Writes are a good way to increase student writing. Incorporate Quick Writes into your teaching practice.&lt;/p&gt;
+&lt;h3&gt;Quick Writes are...&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A strategy for develping writing fluency.&lt;/li&gt;
+&lt;li&gt;Non-threatening, non-graded.&lt;/li&gt;
+&lt;li&gt;Informal and quick.&lt;/li&gt;
+&lt;li&gt;Motivational.&lt;/li&gt;
+&lt;li&gt;Opportunities for reflection and elaboration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Quick Writes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Provide opportunities for readers to strengthen their comprehension through writing.&lt;/li&gt;
+&lt;li&gt;Deepen writers' thinking about a topic as a writing-to-learn activity.&lt;/li&gt;
+&lt;li&gt;Support progress toward one or more specific writing goals (i.e., longer compositions, more details, or more complex sentences).&lt;/li&gt;
+&lt;li&gt;Desensitize students to the fear of a blank page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;How Do Quick Writes Work?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ask learners to take 5 minutes to respond to a question or prompt that you pose. The prompt can relate to a reading that students have just done (or are about to do), or it can ask them to name a favorite movie and discuss why they like it. As a formative assessment tool, the quick write topic can ask students to tell what they learned in class today/tonight and to list questions they still have about the topic.&lt;/li&gt;
+&lt;li&gt;Explain to students that they should write whatever comes to their minds about the prompt, and that they need not be concerned with spelling, punctuation, grammar, etc.&lt;/li&gt;
+&lt;li&gt;During the quick write, the teacher &lt;span style="text-decoration: underline;"&gt;always&lt;/span&gt; writes, too!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Use Quick Writes as a&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Warm up activities to start class;&lt;/li&gt;
+&lt;li&gt;Reinforcement to comprehension;&lt;/li&gt;
+&lt;li&gt;Pre-discussion focusing activity;&lt;/li&gt;
+&lt;li&gt;Pre-writing brainstorm activity to elicit ideas, prior knowledge, and vocabulary;&lt;/li&gt;
+&lt;li&gt;Formative assessment tool.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Benefits of Quick Writes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;They bring out the writer in students.&lt;/li&gt;
+&lt;li&gt;They build students' confidence.&lt;/li&gt;
+&lt;li&gt;They develop writing fluency, especially if used frequently.&lt;/li&gt;
+&lt;li&gt;They bring out the reader in students.&lt;/li&gt;
+&lt;li&gt;They also help teachers grow as writers!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;When using Quick Writes, keep these key components in mind:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Enforce the rules: No talking and EVERYONE writes – including the instructor!&lt;/li&gt;
+&lt;li&gt;Five minutes or less.&lt;/li&gt;
+&lt;li&gt;Try to stay on topic, but it's more important to keep writing.&lt;/li&gt;
+&lt;li&gt;Debrief to ask for ideas or words that were generated.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1394818268</timemodified>
+  </page>
+</activity>

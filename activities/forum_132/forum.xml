@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="26" moduleid="132" modulename="forum" contextid="247">
+  <forum id="26">
+    <type>general</type>
+    <name>Summary Forum: Writing</name>
+    <intro>&lt;div style="text-align:left;"&gt;&lt;span&gt;How can &lt;span class="nolink"&gt;UDL&lt;/span&gt; help us improve writing instruction? Add your own reflections to this &lt;span class="nolink"&gt;Summary Forum&lt;/span&gt;.&lt;/span&gt;&lt;/div&gt; </intro>
+    <introformat>0</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>3</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>1</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1472681619</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+  </forum>
+</activity>
