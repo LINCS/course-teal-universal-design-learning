@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <moodle_backup>
   <information>
-    <name>backup-moodle2-course-17-udl-20180611-1702-nu.mbz</name>
+    <name>backup-moodle2-course-17-udl-20181107-1753-nu.mbz</name>
     <moodle_version>2013111811.01</moodle_version>
     <moodle_release>2.6.11+ (Build: 20150619)</moodle_release>
     <backup_version>2013111800</backup_version>
     <backup_release>2.6</backup_release>
-    <backup_date>1528750948</backup_date>
+    <backup_date>1541631220</backup_date>
     <mnet_remoteusers>0</mnet_remoteusers>
     <include_files>1</include_files>
     <include_file_references_to_external_content>0</include_file_references_to_external_content>
@@ -19,7 +19,7 @@
     <original_course_contextid>214</original_course_contextid>
     <original_system_contextid>1</original_system_contextid>
     <details>
-      <detail backup_id="9812583753124379c046ea1408876fc0">
+      <detail backup_id="12e8090fbaabf9c1887104da76c07ac5">
         <type>course</type>
         <format>moodle2</format>
         <interactive>1</interactive>
@@ -251,25 +251,25 @@ By the end of this course...</title>
           <directory>activities/assign_140</directory>
         </activity>
         <activity>
-          <moduleid>176</moduleid>
-          <sectionid>84</sectionid>
-          <modulename>journal</modulename>
-          <title>Set a personal teaching goal for UDL</title>
-          <directory>activities/journal_176</directory>
-        </activity>
-        <activity>
           <moduleid>129</moduleid>
           <sectionid>84</sectionid>
           <modulename>label</modulename>
-          <title>Remember that your goal statements need to be spec...</title>
+          <title>Goal statements need to be specific enough to ensu...</title>
           <directory>activities/label_129</directory>
         </activity>
         <activity>
           <moduleid>130</moduleid>
           <sectionid>84</sectionid>
           <modulename>page</modulename>
-          <title>Steps to refine your goals statements</title>
+          <title>Steps to refine your goal statements</title>
           <directory>activities/page_130</directory>
+        </activity>
+        <activity>
+          <moduleid>176</moduleid>
+          <sectionid>84</sectionid>
+          <modulename>journal</modulename>
+          <title>Set a personal teaching goal for UDL</title>
+          <directory>activities/journal_176</directory>
         </activity>
         <activity>
           <moduleid>132</moduleid>
@@ -364,7 +364,7 @@ By the end of this course...</title>
       <setting>
         <level>root</level>
         <name>filename</name>
-        <value>backup-moodle2-course-17-udl-20180611-1702-nu.mbz</value>
+        <value>backup-moodle2-course-17-udl-20181107-1753-nu.mbz</value>
       </setting>
       <setting>
         <level>root</level>
@@ -882,18 +882,6 @@ By the end of this course...</title>
       </setting>
       <setting>
         <level>activity</level>
-        <activity>journal_176</activity>
-        <name>journal_176_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>journal_176</activity>
-        <name>journal_176_userinfo</name>
-        <value>0</value>
-      </setting>
-      <setting>
-        <level>activity</level>
         <activity>label_129</activity>
         <name>label_129_included</name>
         <value>1</value>
@@ -914,6 +902,18 @@ By the end of this course...</title>
         <level>activity</level>
         <activity>page_130</activity>
         <name>page_130_userinfo</name>
+        <value>0</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>journal_176</activity>
+        <name>journal_176_included</name>
+        <value>1</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>journal_176</activity>
+        <name>journal_176_userinfo</name>
         <value>0</value>
       </setting>
       <setting>
